@@ -25,8 +25,7 @@
     + [x] /mj/task/{id}/fetch （此接口返回的图片地址为经过One API转发的地址）
 3. 支持在线充值功能，可在系统设置中设置，当前支持的支付接口：
     + [x] 易支付
-4. 支持用key查询使用额度:
-    + 配合项目[neko-api-key-tool](https://github.com/Calcium-Ion/neko-api-key-tool)可实现用key查询使用情况，方便二次分销
+4. 支持用key查询使用额度
 5. 渠道显示已使用额度，支持指定组织访问
 6. 分页支持选择每页显示数量
 7. 支持 gpt-4-1106-vision-preview，dall-e-3，tts-1
